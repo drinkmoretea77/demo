@@ -2,6 +2,11 @@
   background-color: #fecdcd;
   color: #9a55ed;
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none; }
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.block2 {
+  background: red;
+}
